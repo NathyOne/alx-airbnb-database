@@ -1,0 +1,1 @@
+# DDL for the air-bnb database schema.
